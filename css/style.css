@@ -328,12 +328,13 @@ a:active {
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
+    width: 60%;
 }
 
 #portfolio .portfolio-item .portfolio-link {
     position: relative;
     display: block;
-    max-width: 400px;
+    max-width: 100%;
     margin: 0 auto;
     cursor: pointer;
 }
