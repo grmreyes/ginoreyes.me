@@ -272,7 +272,7 @@ a:active {
       height: 27vw;
   }
 
-  #about img{
+  #about lottie-player{
         margin-left: 2vw;
         position: relative;
         width: 27vw;
