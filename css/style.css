@@ -253,6 +253,17 @@ a:active {
       align-items: center;
   }
 
+  #about .img-profile {
+    max-width: 10rem;
+    max-height: 10rem;
+    border: 0.5rem solid #2195f3;
+}
+@media (min-width: 992px) {
+    #about .img-profile{
+        display:none;
+  }
+    }
+
   #about h1 {
     /*font-size: 100%;*/
   }
