@@ -371,7 +371,11 @@ a:active {
 
 #portfolio .portfolio-item .portfolio-link .caption-port .caption-port-content h3,
 #portfolio .portfolio-item .portfolio-link .caption-port .caption-port-content h4 {
-    margin: 0;
+    margin: auto;
+    border: solid white 2px;
+    color: white;
+    width: 12%;
+    text-align: center;
 }
 
 #portfolio * {
